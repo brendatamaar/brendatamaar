@@ -11,7 +11,7 @@ I'm Brendatama Akbar, a passionate Software Developer from Indonesia. Welcome to
 
 ###
 
-Programming Language:
+<h6 align="left">Programming Language:</h6>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -26,7 +26,7 @@ Programming Language:
 
 ###
 
-Frontend Development:
+<h6 align="left">Frontend Development:</h6>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
   <img width="12" />
@@ -47,11 +47,15 @@ Frontend Development:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
 </div>
 
 ###
 
-Backend Development
+<h6 align="left">Backend Development</h6>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
@@ -64,7 +68,7 @@ Backend Development
 
 ###
 
-Database & Data Visualization
+<h6 align="left">Database & Data Visualization</h6>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
@@ -78,13 +82,6 @@ Database & Data Visualization
 </div>
 
 ###
-
-Framework
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" height="140" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2ad383c-7c26-4461-9fa6-262a71882b87/d50bwgl-cf02f614-d7c1-43cb-83bc-5ecebb4407e7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyYWQzODNjLTdjMjYtNDQ2MS05ZmE2LTI2MmE3MTg4MmI4N1wvZDUwYndnbC1jZjAyZjYxNC1kN2MxLTQzY2ItODNiYy01ZWNlYmI0NDA3ZTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.u_5UeT_9_I7IMo83QjfnvUYR6h1-hLOMfLZHS5yuUuU"  />
