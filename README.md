@@ -12,7 +12,7 @@ I'm Brendatama Akbar, a passionate Software Developer from Indonesia. Welcome to
 ###
 
 Programming Language:
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -27,7 +27,7 @@ Programming Language:
 ###
 
 Frontend Development:
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -52,7 +52,7 @@ Frontend Development:
 ###
 
 Backend Development
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
@@ -65,7 +65,7 @@ Backend Development
 ###
 
 Database & Data Visualization
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
@@ -80,7 +80,7 @@ Database & Data Visualization
 ###
 
 Framework
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
@@ -88,7 +88,9 @@ Framework
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" height="140" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2ad383c-7c26-4461-9fa6-262a71882b87/d50bwgl-cf02f614-d7c1-43cb-83bc-5ecebb4407e7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyYWQzODNjLTdjMjYtNDQ2MS05ZmE2LTI2MmE3MTg4MmI4N1wvZDUwYndnbC1jZjAyZjYxNC1kN2MxLTQzY2ItODNiYy01ZWNlYmI0NDA3ZTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.u_5UeT_9_I7IMo83QjfnvUYR6h1-hLOMfLZHS5yuUuU"  />
+
 ###
+
 <div align="center" height="140" >
   <a href="brendatamaa@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
