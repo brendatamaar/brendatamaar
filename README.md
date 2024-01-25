@@ -8,6 +8,9 @@ I'm Brendatama Akbar, a passionate Software Developer from Indonesia. Welcome to
 - 📖 [My resume](https://brendatamaar-resume.vercel.app/)
 
 <h3 align="left">Languages and Tools:</h3>
+
+###
+
 # Programming Language:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -20,6 +23,9 @@ I'm Brendatama Akbar, a passionate Software Developer from Indonesia. Welcome to
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
 </div>
+
+###
+
 # Frontend Development:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
@@ -42,6 +48,9 @@ I'm Brendatama Akbar, a passionate Software Developer from Indonesia. Welcome to
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
 </div>
+
+###
+
 # Backend Development
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
@@ -52,6 +61,9 @@ I'm Brendatama Akbar, a passionate Software Developer from Indonesia. Welcome to
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
 </div>
+
+###
+
 # Database & Data Visualization
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
@@ -64,6 +76,9 @@ I'm Brendatama Akbar, a passionate Software Developer from Indonesia. Welcome to
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
 </div>
+
+###
+
 # Framework
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
