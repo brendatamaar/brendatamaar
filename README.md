@@ -12,7 +12,7 @@ I'm Brendatama Akbar, a passionate Software Developer from Indonesia. Welcome to
 
 - 💻 Building B2G Saas product with Vue and Spring Boot;
 - 🌱 Currently learning the universe of Go;
-- 👩🏼‍💻 Working mostly with Vue, Typescript and Tailwind;
+- 👩🏼‍💻 Working mostly with Vue/React, Typescript and Tailwind;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: brendatamaa@gmail.com;
 
@@ -22,6 +22,13 @@ I'm Brendatama Akbar, a passionate Software Developer from Indonesia. Welcome to
 
 <h6 align="left">Programming Language:</h6>
 <div align="left">
+  ![Javascript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+  ![Typescript](https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
