@@ -14,7 +14,7 @@ I'm Brendatama Akbar, a passionate Software Developer from Indonesia. Welcome to
 - 🌱 Currently learning the universe of Go;
 - 👩🏼‍💻 Working mostly with Vue, Typescript and Tailwind;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: ste-9@hotmail.com;
+- 📫 How to reach me: brendatamaa@gmail.com;
 
 ###
 
