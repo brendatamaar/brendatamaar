@@ -1,15 +1,24 @@
-## Hello, World! 👋
+# Hello, World!👋
 
-I'm Brendatama Akbar, a passionate Software Developer from Indonesia. Welcome to my GitHub profile! 🚀
+I'm Brendatama Akbar, a passionate Software Developer from Indonesia. Welcome to my GitHub profile!🚀
 
-### About Me
+## About Me
 
-- 🌐 [My personal website](https://brendatama.vercel.app/)
-- 📖 [My resume](https://brendatamaar-resume.vercel.app/)
-
-<h3 align="left">Languages and Tools:</h3>
+- 🌐 [My personal web](https://brendatama.vercel.app/)
 
 ###
+
+## What I'm Up To
+
+- 💻 Building B2G Saas product with Vue and Spring Boot;
+- 🌱 Currently learning the universe of Go;
+- 👩🏼‍💻 Working mostly with Vue, Typescript and Tailwind;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: ste-9@hotmail.com;
+
+###
+
+## Languages and Tools
 
 <h6 align="left">Programming Language:</h6>
 <div align="left">
