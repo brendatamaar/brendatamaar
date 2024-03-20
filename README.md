@@ -40,7 +40,6 @@ I'm Brendatama Akbar, a passionate Software Developer from Indonesia. Welcome to
   <img src="https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" alt="sass logo"  />
   <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" alt="tailwindcss logo"  />
   <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" alt="webpack logo"  />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" alt="laravel logo"  />
 </div>
 
 ###
@@ -50,21 +49,18 @@ I'm Brendatama Akbar, a passionate Software Developer from Indonesia. Welcome to
   <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs logo"  />
   <img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="express logo"  />
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="spring logo"  />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" alt="laravel logo"  />
 </div>
 
 ###
 
 <h6 align="left">Database & Data Visualization</h6>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="30" alt="d3js logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
+  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb logo"  />
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql logo"  />  
+  <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql logo"  />
+  <img src="https://img.shields.io/badge/d3.js-%23F9A03C.svg?&style=for-the-badge&logo=d3.js&logoColor=black" alt="d3js logo"  />
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white" alt="grafana logo"  />
 </div>
 
 ###
@@ -98,4 +94,4 @@ I'm Brendatama Akbar, a passionate Software Developer from Indonesia. Welcome to
 
 ## Let's Collaborate!
 
-I'm always open to collaborating on interesting projects. If you have something cool in mind, feel free to reach out. Let's build something amazing together! 🌟
+I'm always open to collaborating on interesting projects. If you have something cool in mind, feel free to reach out. Let's build something amazing together!🌟
