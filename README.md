@@ -1,8 +1,8 @@
-# Hello, World! 👋
+## Hello, World! 👋
 
 I'm Brendatama Akbar, a passionate Software Developer from Indonesia. Welcome to my GitHub profile! 🚀
 
-## About Me
+### About Me
 
 - 🌐 [My personal website](https://brendatama.vercel.app/)
 - 📖 [My resume](https://brendatamaar-resume.vercel.app/)
