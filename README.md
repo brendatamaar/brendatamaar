@@ -8,61 +8,6 @@ I'm Brendatama Akbar, a passionate Software Developer from Indonesia. Welcome to
 
 ###
 
-## What I'm Up To
-
-- 💻 Building B2G Saas product with Vue and Spring Boot;
-- 🌱 Currently learning the universe of Go;
-- 👩🏼‍💻 Working mostly with Vue/React, Typescript and Tailwind;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: brendatamaa@gmail.com;
-
-###
-
-## Languages and Tools
-
-<h6 align="left">Programming Language:</h6>
-<div align="left">
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="javascript logo" />
-  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="typescript logo" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java logo" />
-  <img src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql logo"  />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="php logo"  />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" alt="go logo"  />
-</div>
-
-###
-
-<h6 align="left">Frontend Development:</h6>
-<div align="left">
-  <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" alt="vuejs logo"  />
-  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="react logo"  />
-  <img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs logo"  />
-  <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<h6 align="left">Backend Development</h6>
-<div align="left">
-  <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs logo"  />
-  <img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="express logo"  />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="spring logo"  />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" alt="laravel logo"  />
-</div>
-
-###
-
-<h6 align="left">Database & Data Visualization</h6>
-<div align="left">
-  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb logo"  />
-  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql logo"  />  
-  <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql logo"  />
-  <img src="https://img.shields.io/badge/d3.js-%23F9A03C.svg?&style=for-the-badge&logo=d3.js&logoColor=black" alt="d3js logo"  />
-  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white" alt="grafana logo"  />
-</div>
-
-###
-
 <h3 align="left">Connect with me:</h3>
 <img align="right" height="140" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2ad383c-7c26-4461-9fa6-262a71882b87/d50bwgl-cf02f614-d7c1-43cb-83bc-5ecebb4407e7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyYWQzODNjLTdjMjYtNDQ2MS05ZmE2LTI2MmE3MTg4MmI4N1wvZDUwYndnbC1jZjAyZjYxNC1kN2MxLTQzY2ItODNiYy01ZWNlYmI0NDA3ZTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.u_5UeT_9_I7IMo83QjfnvUYR6h1-hLOMfLZHS5yuUuU"  />
 
