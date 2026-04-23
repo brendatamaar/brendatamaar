@@ -4,7 +4,7 @@ I'm Brendatama Akbar, a passionate Software Developer from Indonesia. Welcome to
 
 ## About Me
 
-- 🌐 [My personal web](https://brendatama.vercel.app/)
+- 🌐 [My personal web](https://www.brendatama.dev/)
 
 ###
 
